@@ -8,6 +8,7 @@
 ![Skills](https://skillicons.dev/icons?i=tailwind,js,react,vite,yarn,bootstrap,nodejs,firebase&perline=6)
 
 ## 🚀 API
+- `yarn json-server db.json --port 4000`
 
 ## 📄 Git Commit Convention
 | 태그 이름 | 설명 |
