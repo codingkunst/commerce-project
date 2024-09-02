@@ -1,14 +1,10 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import './App.css'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Router from './shared/Router'
 
 function App() {
-
-  return (
-    <div>
-      <Router />
-    </div>
-  )
+  return <Router />
 }
 
 export default App
