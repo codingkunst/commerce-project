@@ -26,11 +26,13 @@ const Navbar = () => {
 
       {/* 로고 */}
       <div className="flex justify-center">
-        <img
-          src="https://ifdalivestorage.blob.core.windows.net/user-uploads/profile/2638/00000000-0000-0000-0000-000000000000/logo_906e95183c6d0bce2753aa5a1a0f2154ac7434e4.png"
-          alt="murthehelp"
-          width={100}
-        />
+        <Link to='/'>
+          <img
+            src="https://ifdalivestorage.blob.core.windows.net/user-uploads/profile/2638/00000000-0000-0000-0000-000000000000/logo_906e95183c6d0bce2753aa5a1a0f2154ac7434e4.png"
+            alt="murthehelp"
+            width={100}
+          />
+        </Link>
       </div>
 
       {/* 메뉴, 검색 */}
