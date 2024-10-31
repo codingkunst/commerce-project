@@ -7,8 +7,11 @@
 ## 🛠 Skills
 ![Skills](https://skillicons.dev/icons?i=tailwind,js,react,vite,yarn,bootstrap,nodejs,firebase&perline=6)
 
-## 🚀 API
-- `yarn json-server db.json --port 4000`
+## 🚀 주요 기능
+- firebase 로그인/회원가입
+- infinite-scroll-hook 무한 스크롤
+- 상품 검색
+- 상품 장바구니 담기 및 결제
 
 ## 📄 Git Commit Convention
 | 태그 이름 | 설명 |
